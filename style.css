@@ -10,3 +10,10 @@ h1 {
 .centered {
     text-align: center;
 }
+
+a {
+    font-family: sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(0, 120, 120);
+}
