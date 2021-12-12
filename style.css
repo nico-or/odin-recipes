@@ -21,3 +21,7 @@ a {
     text-decoration: none;
     color: rgb(0, 120, 120);
 }
+
+p {
+    font-family: sans-serif;
+}
